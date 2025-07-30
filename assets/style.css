@@ -3,8 +3,12 @@ body{
     font-family: Bai Jamjuree;
 }
 
-footer{
-    background-color: black;
+#container {
+    display: flex;
+}
+
+.cartão{
+    margin: ire;
     color:white;
     position:fixed;
     bottom:0;
